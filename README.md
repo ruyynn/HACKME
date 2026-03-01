@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=HACKME+WhatsApp+Tools;v2.0+Free+Edition;Open+Source+Project;OSINT+WhatsApp+Tool" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=HACKME+WhatsApp+Tools;v1.1.0+Free+Edition;Open+Source+Project;OSINT+WhatsApp+Tool" alt="Typing SVG" />
   
   <!-- Logo ASCII Art -->
   <pre>
@@ -87,7 +87,7 @@
 </div>
 
 <!-- SEO Description -->
-<h1 align="center">🔥 HACKME WhatsApp Tools v1.0 - Free OSINT Edition</h1>
+<h1 align="center">🔥 HACKME WhatsApp Tools v1.1.0 - Free OSINT Edition</h1>
 
 <p align="center">
   <strong>Alat cek nomor WhatsApp dengan teknologi OSINT untuk mendapatkan informasi lengkap tentang pengguna WhatsApp. 
