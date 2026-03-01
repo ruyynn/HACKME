@@ -278,7 +278,7 @@ class HACKME:
 ║  • Lisensi      : MIT Open Source                                  ║
 ╠════════════════════════════════════════════════════════════════════╣
 ║  {PURPLE}📊 AKURASI DATA{RESET}{WHITE}                                                   ║
-║  • Validasi nomor   : 100% (Google database)                       ║
+║  • Validasi nomor   : Based on Google libphonenumber database      ║
 ║  • Deteksi provider : 90-95%                                       ║
 ║  • Deteksi lokasi   : 85-90%                                       ║
 ║  • Timezone         : 100%                                         ║
@@ -297,7 +297,7 @@ class HACKME:
 ╠════════════════════════════════════════════════════════════════════╣
 ║  {GREEN}📚 VERSION HISTORY{RESET}{WHITE}                                                ║
 ║  • v1.0.0 (2026-02-15) - Rilis awal                                ║
-║  • v1.1.0 (2026-03-02) - optimal - feature improvement              ║
+║  • v1.1.0 (2026-03-02) - optimal - feature improvement             ║
 ╚════════════════════════════════════════════════════════════════════╝{RESET}
 """
         
