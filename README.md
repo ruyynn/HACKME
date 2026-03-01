@@ -62,10 +62,12 @@
     <img src="https://img.shields.io/badge/Phone-Number%20Checker-FFA500?style=flat-square&logo=telegram&logoColor=white" alt="Phone Checker">
   </p>
 
-  <!-- Visitor Counter -->
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/ruyynn-hackme/count.svg" alt="Visitor Count">
-  </p>
+<!-- Visitor Counter -->
+<p align="center">
+  <a href="https://github.com/ruyynn/HACKME">
+    <img src="https://komarev.com/ghpvc/?username=ruyynn&repo=HACKME&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views">
+  </a>
+</p>
 
   <!-- Support Buttons -->
   <p align="center">
@@ -85,7 +87,7 @@
 </div>
 
 <!-- SEO Description -->
-<h1 align="center">🔥 HACKME WhatsApp Tools v2.0 - Free OSINT Edition</h1>
+<h1 align="center">🔥 HACKME WhatsApp Tools v1.0 - Free OSINT Edition</h1>
 
 <p align="center">
   <strong>Alat cek nomor WhatsApp dengan teknologi OSINT untuk mendapatkan informasi lengkap tentang pengguna WhatsApp. 
